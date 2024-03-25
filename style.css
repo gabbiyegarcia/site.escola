@@ -1,8 +1,30 @@
 body{
-    background-color: #383D58;
+    background-color: #383d58;
 
 
 }
 li{
+    color: white;
+}
+
+.escola-imagem{
+    width: 20%;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.cabeçalho{
+    background-color: #383D58;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola{
+    background-image: linear-gradient(#383d58,#00c0eb);
     color: white;
 }

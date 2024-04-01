@@ -27,4 +27,16 @@ li{
 .escola{
     background-image: linear-gradient(#383d58,#00c0eb);
     color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.escola-conteudo{
+    width: 35%;
+}
+
+.escola-titulo{
+    padding: 24px 0;
 }

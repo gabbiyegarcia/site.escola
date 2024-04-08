@@ -30,7 +30,9 @@ li{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 24px 0;
+    padding: 24px <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap" rel="stylesheet">0;
 }
 
 .escola-conteudo{

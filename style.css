@@ -50,32 +50,27 @@ li{
     color: white;
 
     
+}
+.todos-estudante{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+}
 
-}
-.estudante{
-    display
-}
 .rick{
     width: 98px;
 }
 
 .instagram{
-    width: 3%;
+    width: 20%;
 
 }
-.moranguinho{
-    width: 94px;
+.whatssap{
+    width: 20%;
 
 }
-.japa{
-    width: 99px;
+.facebook{
+    width: 20%;
 }
-.branquela{
-    width: 99px;
-}
-.victor{
-    width: 99px;
-}
-.pinoquio{
-    width: 99px;
+.pessoas{
+    width: 78%;
 }
